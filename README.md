@@ -9,7 +9,7 @@
 
 ## Використання
 
-1. Відкрийте блокнот `LSTMMidiAI.ipynb` у [Google Colab](https://colab.research.google.com/).
+1. Відкрийте блокнот `LSTMMidiAI.ipynb` у [Google Colab](https://colab.research.google.com/github/andriy8800555355/LSTMMIDIAI/blob/main/LSTMMidiAI.ipynb).
 2. Підключіть ваш Google Drive для завантаження MIDI файлів і збереження результатів.
 3. Виконайте всі комірки для тренування моделі та генерації нових MIDI файлів.
 4. Отримані файли будуть збережені у вашому Google Drive.
